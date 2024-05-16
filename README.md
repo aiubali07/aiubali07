@@ -21,8 +21,8 @@ I'm like a tech-savvy superhero, mastering Python both as a student and a junior
 
 <div align="center">
 
-[![My Personal Website](https://img.shields.io/badge/%F0%9F%8C%90%20AIUB%20ALI-F35616?style=flat-square)](https://inza-ashique.netlify.app/) [![My Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20ASHIQUE00003%40GMAIL.COM-F35616?style=flat-square
-)](mailto:ashique00003@gmail.com)
+[![My Personal Website](https://img.shields.io/badge/%F0%9F%8C%90%20AIUB%20ALI-F35616?style=flat-square)](https://inza-ashique.netlify.app/) [![My Email](https://img.shields.io/badge/%F0%9F%8C%90%20AIUB%20ALI-F35616?style=flat-square
+)](mailto:work.aiubali@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Expopythonist&color=green&style=for-the-badge) [![Total Stars on Github](https://custom-icon-badges.demolab.com/github/stars/Expopythonist?color=55960c&style=for-the-badge&labelColor=488207&logo=star)](https://github.com/Expopythonist?tab=repositories&sort=stargazers)
 
